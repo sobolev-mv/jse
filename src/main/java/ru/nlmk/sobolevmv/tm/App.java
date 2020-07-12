@@ -2,7 +2,7 @@ package ru.nlmk.sobolevmv.tm;
 
 import static ru.nlmk.sobolevmv.tm.constant.TerminalConst.*;
 
-public class Main {
+public class App {
 
     public static void main(final String[] args) {
         displayWelcome();
