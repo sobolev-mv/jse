@@ -5,3 +5,4 @@
 |e-mail:            |sobolev_mv@nlmk.com|
 |Сборка приложения: |mvn clean, mvn package, mvn install|
 |Запуск приложения: |java -jar task-manager-1.0.0.jar|
+ 
