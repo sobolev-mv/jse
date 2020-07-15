@@ -5,8 +5,8 @@ import static ru.nlmk.sobolevmv.tm.constant.TerminalConst.*;
 public class App {
 
     public static void main(final String[] args) {
-        displayWelcome();
-        run(args);
+      displayWelcome();
+      run(args);
     }
     private static void displayError(){
       System.out.println("Error! Unknow program argument.");
@@ -50,9 +50,5 @@ public class App {
               displayError();
       }
     }
-
-
-
-
 
 }

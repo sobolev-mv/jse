@@ -9,7 +9,6 @@
     <version>1.0.0</version>
 
     <name>task-manager</name>
-    <!-- FIXME change it to the project's website -->
     <url>http://tm.sobolevmv.ru</url>
 
     <developers>
@@ -22,8 +21,8 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>1.7</maven.compiler.source>
-        <maven.compiler.target>1.7</maven.compiler.target>
+        <maven.compiler.source>1.11</maven.compiler.source>
+        <maven.compiler.target>1.11</maven.compiler.target>
     </properties>
 
     <dependencies>
@@ -51,4 +50,5 @@
               </plugin>
         </plugins>
     </build>
+
 </project>
