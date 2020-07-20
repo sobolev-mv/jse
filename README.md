@@ -47,3 +47,9 @@ java -jar task-manager-1.0.0.jar
 ```
 java -jar task-manager-1.0.0.jar help
 ```
+
+Пример пример клонирования проекта по протоколу SSH:
+
+```
+git clone git@gitlab.com:sobolev_mv/jse-05
+```
