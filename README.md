@@ -1,4 +1,4 @@
-## Task Manager
+## Task Manager - SSH
 
 #### 1. Требования к  SOFTWARE
 
