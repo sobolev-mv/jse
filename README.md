@@ -53,3 +53,9 @@ java -jar task-manager-1.0.0.jar help
 ```
 git clone git@gitlab.com:sobolev_mv/jse-05
 ```
+
+#### 6. Ссылка на резервную копию проекта
+
+```
+https://github.com/sobolev-mv/jse
+```
